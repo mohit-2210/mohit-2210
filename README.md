@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mohit-2210
-- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning C language, JAVA, PYTHON, HTML.
 - 💞️ I’m looking to collaborate on AI and cyber security related projects.
 - 📫 You can contact me through mohitmaheshwari2210@gmail.com
